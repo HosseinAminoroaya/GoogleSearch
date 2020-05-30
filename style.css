@@ -1,0 +1,52 @@
+
+.search{
+    height: 46px;
+    width: 583px;
+    border-radius: 25px;
+    border: solid #7b7b7b 1px;
+    
+
+}
+.google_search{
+    /* text-align: center; */
+    padding-top: 351px;
+    padding: 40px;
+    
+    display: inline;
+    /* text-align: center; */
+    padding-left: 650px;
+   
+
+}
+.google_logo{
+    text-align: center;
+    padding-top: 222px;
+
+}
+.btngs{
+    width: 130px;
+    height: 33px;
+    margin: 0;
+}
+.div_btngs{
+    padding-left: 833px;
+    margin: 0;
+    display: inline;
+    padding-top: 25px;
+    
+   
+
+}
+.btnl{
+    width: 133px;
+    height: 33px;
+}
+.div_btnl{
+    display: inline;
+direction: rtl;
+padding-left: 13px;
+padding-top: 25px;
+
+}
+
+
